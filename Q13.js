@@ -16,7 +16,7 @@ function processCategories(categories) {
   };
 }
 
-// Example input
+
 const categories = [
   "electronics",
   "clothing",
@@ -27,5 +27,5 @@ const categories = [
   "toys"
 ];
 
-// Output
+
 console.log(processCategories(categories));
